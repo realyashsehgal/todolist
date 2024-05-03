@@ -1,0 +1,9 @@
+inherited Form1_Surface: TForm1_Surface
+  ClientHeight = 1920
+  ClientWidth = 1080
+  DesignerMasterStyle = 0
+  inherited ListBox1: TListBox
+    Viewport.Width = 285.000000000000000000
+    Viewport.Height = 197.000000000000000000
+  end
+end
